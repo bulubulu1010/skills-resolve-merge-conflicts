@@ -20,6 +20,8 @@ _Learn why conflicts happen and how to resolve them._
 
 ## Finish
 
+## Finish
+## Finish
 _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
